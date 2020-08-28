@@ -1,4 +1,4 @@
-package br.com.agenda.model;
+package br.com.crud.model;
 
 import java.util.Date;
 

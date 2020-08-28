@@ -1,4 +1,4 @@
-package br.com.agenda.dao;
+package br.com.crud.dao;
 
 import java.sql.Connection;
 import java.sql.Date;
@@ -7,8 +7,8 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.agenda.factory.ConnectionFactory;
-import br.com.agenda.model.Contato;
+import br.com.crud.factory.ConnectionFactory;
+import br.com.crud.model.Contato;
 
 public class ContatoDAO {
 

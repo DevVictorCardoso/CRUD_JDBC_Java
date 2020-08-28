@@ -1,10 +1,10 @@
 
 import java.util.Date;
 
-import br.com.agenda.dao.ContatoDAO;
-import br.com.agenda.model.Contato;
+import br.com.crud.dao.ContatoDAO;
+import br.com.crud.model.Contato;
 
-public class TesteAgenda {
+public class TesteCRUD {
 
 	public static void main(String args[]) {
 
