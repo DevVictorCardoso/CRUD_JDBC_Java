@@ -12,7 +12,7 @@ Os frameworks encapsulam toda essa base do Java puro, mas é muito importante en
 
 Ferramentas utilizadas para criar seu projeto
 
-* [ECLIPSE](http://www.https://www.eclipse.org/) - IDE utilizada
+* [ECLIPSE](http://www.eclipse.org/) - IDE utilizada
 * [POSTGRESQL](https://www.postgresql.org/) - Banco de Dados Uilizado
 
 
